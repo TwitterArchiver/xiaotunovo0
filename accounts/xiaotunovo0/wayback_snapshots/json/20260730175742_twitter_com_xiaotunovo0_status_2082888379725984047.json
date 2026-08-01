@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1058185148",
+    "conversation_id": "2082620620916117587",
+    "created_at": "2026-07-30T17:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082888379725984047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022798586342174721",
+          "start": 0,
+          "username": "hwanxing9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082888379725984047",
+    "in_reply_to_user_id": "2022798586342174721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082620620916117587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hwanxing9 能买喵 不需要处方我上次去开了三盒 但前提是成年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058185148",
+        "conversation_id": "2082620620916117587",
+        "created_at": "2026-07-30T17:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082888379725984047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022798586342174721",
+              "start": 0,
+              "username": "hwanxing9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082888379725984047",
+        "in_reply_to_user_id": "2022798586342174721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082620620916117587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hwanxing9 能买喵 不需要处方我上次去开了三盒 但前提是成年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022798586342174721",
+        "conversation_id": "2082620620916117587",
+        "created_at": "2026-07-30T00:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082620620916117587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082620620916117587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 914,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在药店还能买到ym吗🤔🤔🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2013-01-03T16:23:49.000Z",
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n鸡友@Curse8964\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Curse8964"
+              }
+            ]
+          }
+        },
+        "id": "1058185148",
+        "location": "地狱",
+        "name": "苔藓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 47,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "xiaotunovo0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T22:22:28.000Z",
+        "description": "小透明",
+        "id": "2022798586342174721",
+        "name": "绾星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079139133591801856/1R1g5Vtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 341,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "hwanxing9",
+        "verified": false
+      }
+    ]
+  }
+}

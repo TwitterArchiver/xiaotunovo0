@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1058185148",
+    "conversation_id": "2082222971209634184",
+    "created_at": "2026-07-29T15:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082496023260483886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "MISTERK0937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082496023260483886",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082222971209634184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MISTERK0937 pc吗w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2664,
+        "media_key": "3_2082222965203312640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWKwTgaoAAnqAF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058185148",
+        "conversation_id": "2082222971209634184",
+        "created_at": "2026-07-29T15:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082496023260483886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "MISTERK0937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082496023260483886",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082222971209634184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MISTERK0937 pc吗w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082222965203312640"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2082222971209634184",
+        "created_at": "2026-07-28T21:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082222971209634184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LwiFItspoU",
+              "end": 35,
+              "expanded_url": "https://x.com/MISTERK0937/status/2082222971209634184/photo/1",
+              "media_key": "3_2082222965203312640",
+              "start": 12,
+              "url": "https://t.co/LwiFItspoU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082222971209634184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不px😡😡你问了几遍了 https://t.co/LwiFItspoU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2013-01-03T16:23:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n鸡友@MISTERK0937\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "MISTERK0937"
+              }
+            ]
+          }
+        },
+        "id": "1058185148",
+        "location": "地狱",
+        "name": "苔藓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "xiaotunovo0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "本质毒区精神病\n炮友o友宝宝主人妈妈@xiaotunovo0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "xiaotunovo0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/curse37",
+                "end": 23,
+                "expanded_url": "https://ngl.link/curse37",
+                "start": 0,
+                "url": "https://t.co/BoOyx5gTDQ"
+              }
+            ]
+          }
+        },
+        "id": "2039398734962761728",
+        "location": "PR80",
+        "name": "Curse✝",
+        "pinned_tweet_id": "2082372910061330660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082169865146949632/CxpDCaV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 382,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/BoOyx5gTDQ",
+        "username": "MISTERK0937",
+        "verified": false
+      }
+    ]
+  }
+}

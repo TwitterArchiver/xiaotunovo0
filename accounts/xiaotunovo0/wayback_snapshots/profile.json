@@ -1,0 +1,20 @@
+{
+  "name": "苔藓",
+  "username": "@xiaotunovo0",
+  "bio": "苔藓/生长在阴暗潮湿的藻类生物 鸡友@kimika37 宝宝们跟我互fo呀../我有精神疾病/od 金属/核/二刺猿 好想要同样属性的朋友😭",
+  "location": "地狱",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 27,
+        "start": 18,
+        "username": "kimika37"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg"
+}
