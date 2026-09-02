@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1058185148",
+    "conversation_id": "2081657015387242842",
+    "created_at": "2026-08-02T16:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083952251530535118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1719378738369200128",
+          "start": 0,
+          "username": "c0ffe35970126"
+        },
+        {
+          "end": 26,
+          "id": "2015481636184551424",
+          "start": 15,
+          "username": "piaokeriji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083952251530535118",
+    "in_reply_to_user_id": "1719378738369200128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082541968043950233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c0ffe35970126 @piaokeriji 怎么给你打款呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082541958216777728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOas4JFbgAA0L4w.jpg",
+        "width": 1024
+      },
+      {
+        "height": 564,
+        "media_key": "3_2082541962297843712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOas4YSboAAdbFC.jpg",
+        "width": 498
+      },
+      {
+        "height": 324,
+        "media_key": "3_2082541959592452096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOas4ONaoAAfTsg.jpg",
+        "width": 490
+      },
+      {
+        "height": 643,
+        "media_key": "3_2082541961718984704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOas4WIa8AAjE4H.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058185148",
+        "conversation_id": "2081657015387242842",
+        "created_at": "2026-08-02T16:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083952251530535118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1719378738369200128",
+              "start": 0,
+              "username": "c0ffe35970126"
+            },
+            {
+              "end": 26,
+              "id": "2015481636184551424",
+              "start": 15,
+              "username": "piaokeriji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083952251530535118",
+        "in_reply_to_user_id": "1719378738369200128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082541968043950233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c0ffe35970126 @piaokeriji 怎么给你打款呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082541958216777728",
+            "3_2082541962297843712",
+            "3_2082541959592452096",
+            "3_2082541961718984704"
+          ]
+        },
+        "author_id": "1719378738369200128",
+        "conversation_id": "2081657015387242842",
+        "created_at": "2026-07-29T19:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082541968043950233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2015481636184551424",
+              "start": 0,
+              "username": "piaokeriji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/coDPJl4iZy",
+              "end": 35,
+              "expanded_url": "https://x.com/c0ffe35970126/status/2082541968043950233/photo/1",
+              "media_key": "3_2082541958216777728",
+              "start": 12,
+              "url": "https://t.co/coDPJl4iZy"
+            },
+            {
+              "display_url": "pic.x.com/coDPJl4iZy",
+              "end": 35,
+              "expanded_url": "https://x.com/c0ffe35970126/status/2082541968043950233/photo/1",
+              "media_key": "3_2082541962297843712",
+              "start": 12,
+              "url": "https://t.co/coDPJl4iZy"
+            },
+            {
+              "display_url": "pic.x.com/coDPJl4iZy",
+              "end": 35,
+              "expanded_url": "https://x.com/c0ffe35970126/status/2082541968043950233/photo/1",
+              "media_key": "3_2082541959592452096",
+              "start": 12,
+              "url": "https://t.co/coDPJl4iZy"
+            },
+            {
+              "display_url": "pic.x.com/coDPJl4iZy",
+              "end": 35,
+              "expanded_url": "https://x.com/c0ffe35970126/status/2082541968043950233/photo/1",
+              "media_key": "3_2082541961718984704",
+              "start": 12,
+              "url": "https://t.co/coDPJl4iZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082541968043950233",
+        "in_reply_to_user_id": "2015481636184551424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081657015387242842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piaokeriji https://t.co/coDPJl4iZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2013-01-03T16:23:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n鸡友@kimika37\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "kimika37"
+              }
+            ]
+          }
+        },
+        "id": "1058185148",
+        "location": "地狱",
+        "name": "苔藓",
+        "pinned_tweet_id": "2083185169125830674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 122,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "xiaotunovo0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T15:40:19.000Z",
+        "description": "",
+        "id": "1719378738369200128",
+        "name": "水洛喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078083392751738880/g_T5-CI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 107,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 469
+        },
+        "url": "",
+        "username": "c0ffe35970126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T17:47:42.000Z",
+        "description": "投稿请直奔主题，发送我投稿内容，并说明是否匿名投稿即可\n\n#交友投稿",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "交友投稿"
+              }
+            ]
+          }
+        },
+        "id": "2015481636184551424",
+        "name": "Do大叔",
+        "pinned_tweet_id": "2076689347638919414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060313266812055553/ZQcMiaVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221487,
+          "following_count": 56,
+          "like_count": 140,
+          "listed_count": 186,
+          "media_count": 172,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "piaokeriji",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

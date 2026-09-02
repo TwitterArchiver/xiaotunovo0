@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083949543440404480"
+      ]
+    },
+    "author_id": "1058185148",
+    "conversation_id": "2083949562486771826",
+    "created_at": "2026-08-02T16:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083949562486771826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uqERnS3y30",
+          "end": 37,
+          "expanded_url": "https://x.com/xiaotunovo0/status/2083949562486771826/photo/1",
+          "media_key": "3_2083949543440404480",
+          "start": 14,
+          "url": "https://t.co/uqERnS3y30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083949562486771826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ok已抽 我一个个私信你们 https://t.co/uqERnS3y30"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083949543440404480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOutEYqaUAABIY3.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083949543440404480"
+          ]
+        },
+        "author_id": "1058185148",
+        "conversation_id": "2083949562486771826",
+        "created_at": "2026-08-02T16:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083949562486771826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqERnS3y30",
+              "end": 37,
+              "expanded_url": "https://x.com/xiaotunovo0/status/2083949562486771826/photo/1",
+              "media_key": "3_2083949543440404480",
+              "start": 14,
+              "url": "https://t.co/uqERnS3y30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083949562486771826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok已抽 我一个个私信你们 https://t.co/uqERnS3y30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2013-01-03T16:23:49.000Z",
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n鸡友@kimika37\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "kimika37"
+              }
+            ]
+          }
+        },
+        "id": "1058185148",
+        "location": "地狱",
+        "name": "苔藓",
+        "pinned_tweet_id": "2083185169125830674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 121,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "xiaotunovo0",
+        "verified": false
+      }
+    ]
+  }
+}

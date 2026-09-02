@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1058185148",
+    "conversation_id": "2083114085399531545",
+    "created_at": "2026-08-01T01:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T02:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083363701781069856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059149411007991808",
+          "start": 0,
+          "username": "wndsfefoumxlw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083363701781069856",
+    "in_reply_to_user_id": "2059149411007991808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083114085399531545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wndsfefoumxlw6 我都不敢去 感觉站在那会被人注视 好尴尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058185148",
+        "conversation_id": "2083114085399531545",
+        "created_at": "2026-08-01T01:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083363701781069856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083363701781069856",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083114085399531545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 我都不敢去 感觉站在那会被人注视 好尴尬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2083114085399531545",
+        "created_at": "2026-07-31T08:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083114085399531545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083114085399531545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3819,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌真的有那么好玩吗，为什么感觉推特上几乎都在玩这个，我这种i人想玩都不敢玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2013-01-03T16:23:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n鸡友@kimika37\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "kimika37"
+              }
+            ]
+          }
+        },
+        "id": "1058185148",
+        "location": "地狱",
+        "name": "苔藓",
+        "pinned_tweet_id": "2083185169125830674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 82,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "xiaotunovo0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/避难所：@SRamirez66171\n 电子烟需要的私信我 vx：c313s852j0976（无上头）\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 109,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 86,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 198,
+          "like_count": 5371,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 2504
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

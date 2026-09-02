@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1058185148",
+    "conversation_id": "2083841406662214113",
+    "created_at": "2026-08-02T10:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083861997192700330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057835400790462464",
+          "start": 0,
+          "username": "kimika37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083861997192700330",
+    "in_reply_to_user_id": "2057835400790462464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083841406662214113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimika37 制度小屋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2083841398936416256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtKti_bsAAmUpJ.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058185148",
+        "conversation_id": "2083841406662214113",
+        "created_at": "2026-08-02T10:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083861997192700330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057835400790462464",
+              "start": 0,
+              "username": "kimika37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083861997192700330",
+        "in_reply_to_user_id": "2057835400790462464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083841406662214113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimika37 制度小屋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083841398936416256"
+          ]
+        },
+        "author_id": "2057835400790462464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083841406662214113",
+        "created_at": "2026-08-02T09:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083841406662214113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGuVz0GX0l",
+              "end": 32,
+              "expanded_url": "https://x.com/kimika37/status/2083841406662214113/photo/1",
+              "media_key": "3_2083841398936416256",
+              "start": 9,
+              "url": "https://t.co/IGuVz0GX0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083841406662214113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备手搓pr80 https://t.co/IGuVz0GX0l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2013-01-03T16:23:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n鸡友@kimika37\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "kimika37"
+              }
+            ]
+          }
+        },
+        "id": "1058185148",
+        "location": "地狱",
+        "name": "苔藓",
+        "pinned_tweet_id": "2083185169125830674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 115,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "xiaotunovo0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T14:46:19.000Z",
+        "description": "💊🔪🩸温良边缘人\n鸡友@xiaotunovo0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "xiaotunovo0"
+              }
+            ]
+          }
+        },
+        "id": "2057835400790462464",
+        "location": "天堂",
+        "name": "Curse✝2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083168051495895040/_oeSqACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 95,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "kimika37",
+        "verified": false
+      }
+    ]
+  }
+}

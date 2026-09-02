@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083158084478996480"
+      ]
+    },
+    "author_id": "1058185148",
+    "conversation_id": "2083158119778267645",
+    "created_at": "2026-07-31T11:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083158119778267645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/59bSjLdJPP",
+          "end": 51,
+          "expanded_url": "https://x.com/xiaotunovo0/status/2083158119778267645/photo/1",
+          "media_key": "3_2083158084478996480",
+          "start": 28,
+          "url": "https://t.co/59bSjLdJPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083158119778267645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鸡友我爱你一辈子呀 快点转生好吗 可我觉得我康复不了了 https://t.co/59bSjLdJPP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083158084478996480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjdPaRakAA5qNG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083158084478996480"
+          ]
+        },
+        "author_id": "1058185148",
+        "conversation_id": "2083158119778267645",
+        "created_at": "2026-07-31T11:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083158119778267645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/59bSjLdJPP",
+              "end": 51,
+              "expanded_url": "https://x.com/xiaotunovo0/status/2083158119778267645/photo/1",
+              "media_key": "3_2083158084478996480",
+              "start": 28,
+              "url": "https://t.co/59bSjLdJPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083158119778267645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡友我爱你一辈子呀 快点转生好吗 可我觉得我康复不了了 https://t.co/59bSjLdJPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2013-01-03T16:23:49.000Z",
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n鸡友@Curse8964\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Curse8964"
+              }
+            ]
+          }
+        },
+        "id": "1058185148",
+        "location": "地狱",
+        "name": "苔藓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 61,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "xiaotunovo0",
+        "verified": false
+      }
+    ]
+  }
+}

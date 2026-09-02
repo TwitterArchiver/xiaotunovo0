@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1058185148",
+    "conversation_id": "2083108962547953845",
+    "created_at": "2026-07-31T08:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083108962547953845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "Curse8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083108962547953845",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Curse8964 悲报 本人鸡友推特号惨遭永封 静待转生"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Curse8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Curse8964",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Curse8964"
+    },
+    {
+      "detail": "User has been suspended: [2039398734962761728].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "2039398734962761728",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2039398734962761728"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058185148",
+        "conversation_id": "2083108962547953845",
+        "created_at": "2026-07-31T08:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083108962547953845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "Curse8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083108962547953845",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Curse8964 悲报 本人鸡友推特号惨遭永封 静待转生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2013-01-03T16:23:49.000Z",
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n鸡友@Curse8964\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Curse8964"
+              }
+            ]
+          }
+        },
+        "id": "1058185148",
+        "location": "地狱",
+        "name": "苔藓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 57,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "xiaotunovo0",
+        "verified": false
+      }
+    ]
+  }
+}
